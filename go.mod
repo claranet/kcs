@@ -1,4 +1,4 @@
-module git.fr.clara.net/thomas.labarussias/aps
+module github.com:claranet/aps
 
 go 1.12
 
